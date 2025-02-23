@@ -4,9 +4,10 @@ node_modules/
 # Ignore environment variables (security reasons)
 .env
 
-# Ignore the transcription output file
+# Ignore the output files
 transcription.json
-
+output.srt
+output.vtt
 # Ignore log files
 *.log
 
